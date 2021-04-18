@@ -1,6 +1,13 @@
 # Game Development Study
 All information pertaining to the Coursera class on C# and Unity Engine programming.
 
+## Tools
+- <img src="images/vscommunitylogo.jpg" alt="VS Community Logo" width=40/> Visual Studio Community
+- <img src="images/unitylogo.png" alt="Unity Logo" width=40/> Unity Engine
+
+
+## Table of Contents
+
 [Getting Started: Day 0](Day-0/index.md)
 1. [Git](Day-0/Git/notes.md)
 2. [Markdown](Day-0/Markdown/notes.md)
