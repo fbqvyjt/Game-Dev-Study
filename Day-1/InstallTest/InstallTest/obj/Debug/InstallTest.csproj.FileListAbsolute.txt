@@ -1,0 +1,7 @@
+C:\Users\fbqvy\Desktop\C# Project Space\Week 1\InstallTest\InstallTest\bin\Debug\InstallTest.exe.config
+C:\Users\fbqvy\Desktop\C# Project Space\Week 1\InstallTest\InstallTest\bin\Debug\InstallTest.exe
+C:\Users\fbqvy\Desktop\C# Project Space\Week 1\InstallTest\InstallTest\bin\Debug\InstallTest.pdb
+C:\Users\fbqvy\Desktop\C# Project Space\Week 1\InstallTest\InstallTest\obj\Debug\InstallTest.csprojAssemblyReference.cache
+C:\Users\fbqvy\Desktop\C# Project Space\Week 1\InstallTest\InstallTest\obj\Debug\InstallTest.csproj.CoreCompileInputs.cache
+C:\Users\fbqvy\Desktop\C# Project Space\Week 1\InstallTest\InstallTest\obj\Debug\InstallTest.exe
+C:\Users\fbqvy\Desktop\C# Project Space\Week 1\InstallTest\InstallTest\obj\Debug\InstallTest.pdb

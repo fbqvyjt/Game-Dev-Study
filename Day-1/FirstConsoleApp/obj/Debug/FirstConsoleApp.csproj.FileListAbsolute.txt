@@ -1,0 +1,7 @@
+C:\Users\fbqvy\Desktop\C# Project Space\Week 1\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
+C:\Users\fbqvy\Desktop\C# Project Space\Week 1\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe
+C:\Users\fbqvy\Desktop\C# Project Space\Week 1\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb
+C:\Users\fbqvy\Desktop\C# Project Space\Week 1\FirstConsoleApp\obj\Debug\FirstConsoleApp.csprojAssemblyReference.cache
+C:\Users\fbqvy\Desktop\C# Project Space\Week 1\FirstConsoleApp\obj\Debug\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\fbqvy\Desktop\C# Project Space\Week 1\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
+C:\Users\fbqvy\Desktop\C# Project Space\Week 1\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb
