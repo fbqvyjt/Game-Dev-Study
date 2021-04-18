@@ -1,4 +1,4 @@
-# ***Day 0 Index***
+# ***Getting Started***
 
 
 1. [Git](Git/notes.md)

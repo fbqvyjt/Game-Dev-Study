@@ -1,4 +1,4 @@
-# Day 0 Markdown Notes
+# Markdown Notes
 Important things to remember about Markdown! 😁
 
 Will be writing code in ***Visual Studio Code***
