@@ -12,7 +12,8 @@ Lecture on what are Data Types, Variables, and Constants.
 
 
 ## In-Depth Information
-1. How do we interpret a line of binary? It can represent:
+1. How do we interpret a line of binary? 
+It can represent:
     - Letters according to ASCII
     - An added number
     - Well... many other things!
