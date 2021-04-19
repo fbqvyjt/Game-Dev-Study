@@ -25,12 +25,13 @@ Lesson on how to utilize commonly used integer (whole numbers) data types in C#
     - THIS was an actual problem that arose in Grand Theft Auto V with the money system!
 
 <details>
-<summary> Lastly, it's important to note that there's two distinctions between data types: <summary>
+<summary> Lastly, it's important to note that there's two distinctions between data types: </summary>
 
 * ***Value Types*** are the bytes, short, int or long at a memory location interpreted as an integer.
 
 * ***Reference Types*** are interpreted as a memory address. 
 
+</details>
 
 
 
