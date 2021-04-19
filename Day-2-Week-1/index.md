@@ -4,8 +4,8 @@
 1. [The Binary Language](Binary/notes.md)
     - Small Introduction to the binary language.
 
-2. [Data Types](DataTypes/note.md)
-    - Learned what data types are
+2. [Data Types, Variables and Constants](DaTyVarCon/notes.md)
+    - Introduction to the definitions and structures behind data types, variables, and constants.
 
 3. [Common Numeric Data Types in C#](CommNumDataTy/notes.md)
     - Determined commonly used numeric data types in C#
