@@ -44,7 +44,15 @@ Task: With variable `int` as your age, print a statement in the Main method that
 <br/><br/>
 
 ### ***Exercise 4: Calculating with Integers***
-Task: 
+Task: In the Main method, calculate the difference of altitudes between two different locations; prompting for an input for each.
+
+1. In order to prompt for an input use:
+    - `Console.Write("What is love? ");`
+
+2. To read parse, and store the item typed in by the user, use:
+    - `int firstItem = int.Parse(Console.ReadLine());`
+
+- [Here's my solution.](Exercise4.cs)
 
 
 

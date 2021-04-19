@@ -27,3 +27,5 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 1. [Bits and Bytes](Day-2-Week-1/Binary/notes.md)
 2. [Data Types, Variables, & Constants](Day-2-Week-1/DaTyVarCon/notes.md)
 3. [Integer Data Types](Day-2-Week-1/IntDataTypes/notes.md)
+4. [Floating Point Data Types](Day-2-Week-1/FloatPoint/notes.md)
+5. [Reading Documentation](Day-2-Week-1/ReadingDocs/notes.md)
