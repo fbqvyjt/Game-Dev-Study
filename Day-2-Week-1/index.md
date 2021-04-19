@@ -18,6 +18,6 @@
     - [Declaring & Using Variables and Constants](FloatPoint/Exercise5.cs)
 
 5. [Reading Documentaion](ReadingDocs/notes.md)
-    - Explored the imporance of the why and how a programmer should read documentation
+    - Explored the importance of the why and how a programmer should read documentation
     - [Trigonometry with Floats](ReadingDocs/Exercise6.cs)
     - [Calculations and Rounding](ReadingDocs/Exercise7.cs)
