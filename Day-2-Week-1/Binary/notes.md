@@ -1,4 +1,4 @@
-# Bits and Bytes: Intro to Binary
+# ***Bits and Bytes***
 A small intro to binary about how we represent information in the programming language.
 
 1. Binary is just *1's* and *0's* → *on*, or *off*. They are switches within the computer that represents memory.
