@@ -17,4 +17,5 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 1. [Installation Process](Day-1/Installation/notes.md)
 2. ["Hello, World!" in C#](Day-1/Exercise1/notes.md)
 3. [Layout of the Unity Console](Day-1/UnityConsole/notes.md)
-4. [First Code in Unity](Day-1/FirstUnity/note.md)
+
+[First Unity Script & Code](Day-2-Week-1/index.md)
