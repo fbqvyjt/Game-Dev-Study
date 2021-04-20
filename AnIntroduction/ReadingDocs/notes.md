@@ -2,9 +2,9 @@
 Tips on how to practice reading documentation for any programming language issue you may have.
     - Follow along with [this](DocuLec.cs) lecture code!
 
-1. Whenever you assign a decimal number to a floating point number, the compiler will automatically assumed it's a double because the smaller data type can't represent a bigger one.. 
+1. Whenever you assign a decimal number to a floating point number, the compiler will automatically assumed it's a double because the smaller data type can't represent a bigger one. 
     - ie. : `float cosine = 0.8;` 
-    - error given → <span style="color:red"> "Literal of type double cannot be implicitly coverted to type 'float', use an 'F' suffic to create a literal of this type."</span>
+    - error given → <span style="color:red">"Literal of type double cannot be implicitly coverted to type 'float', use an 'F' suffic to create a literal of this type."</span>
     - so use an f suffix to help the code
 2. In order to support doing certain kinds of math in your program you have to know the Math Class and its methods. 
     - By going to the Documentation link provided in the Help Tab of VSCommunity, search for "cosine"
