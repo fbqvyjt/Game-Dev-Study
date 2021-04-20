@@ -10,5 +10,5 @@
 3. [Layout of the Unity Console](UnityConsole/notes.md)
     - Given instructions on how to change the layout of Unity UI.
 
-4. [First Code in Unity](FirstUnity/note.md)
+4. [First Code in Unity](FirstUnity/notes.md)
     - Produced my first game project in Unity.
