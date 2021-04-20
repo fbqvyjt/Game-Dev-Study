@@ -14,7 +14,7 @@ namespace FloatDouble
         public static void Main(string[] args)
         {
             int score = 1360;
-            in totalSecondsPlayed = 10000;
+            int totalSecondsPlayed = 10000;
 
             // calculate and print points per second
             float pointsPerSecond = (float) score / totalSecondsPlayed;
