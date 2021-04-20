@@ -1,52 +1,64 @@
-using System.Collections;
+using System;
 using System.Collections.Generic;
-using UnityEngine;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-public class ConvertTemperatures : MonoBehaviour
+namespace Exercise7WithC
 {
-    // Start is called before the first frame update
-    void Start()
+    class Program
     {
-        int ogFahTemp;
-        int celTemp;
-        int fahCelTemp;
+        static void Main(string[] args)
+        {
+            // Int variables
+            int fah;
+            int cel;
+            int celFah;
 
-        // calculate and display for 0 degrees
-        ogFahTemp = 0;
-        print("Original Fahrenheit: " + ogFahTemp);
-        celTemp = (ogFahTemp - 32) / 9 * 5;
-        print("Calculated Celsius: " + celTemp);
-        fahCelTemp = (celTemp * 9) / 5 + 32;
-        print("Calculated Fahrenheit: " + fahCelTemp);
+            Console.Write("Enter a temperature in Fahrenheit: ");
+            fah = int.Parse(Console.ReadLine());
+            
+            cel = (fah - 32) / 9 * 5;
+            Console.WriteLine("Your int temperature in Celcius is: " + cel);
 
-        // calculate and display for 32 degrees
-        ogFahTemp = 32;
-        print("Original Fahrenheit: " + ogFahTemp);
-        celTemp = (ogFahTemp - 32) / 9 * 5;
-        print("Calculated Celsius: " + celTemp);
-        fahCelTemp = (celTemp * 9) / 5 + 32;
-        print("Calculated Fahrenheit: " + fahCelTemp);
+            celFah = (cel * 9) / 5 + 32;
+            Console.WriteLine("Your Int Calculated Fahrenheit is: " + celFah);
+            Console.WriteLine();
+            Console.WriteLine();
 
-        // calculate and display for 212 degrees
-        ogFahTemp = 212;
-        print("Original Fahrenheit: " + ogFahTemp);
-        celTemp = (ogFahTemp - 32) / 9 * 5;
-        print("Calculated Celsius: " + celTemp);
-        fahCelTemp = (celTemp * 9) / 5 + 32;
-        print("Calculated Fahrenheit: " + fahCelTemp);
 
-        // declare float variables
-        double floatOgFah;
-        double floatCel;
-        double floatFahCel;
 
-        // calculate and display for 0 degrees using float
-        floatOgFah = 0;
-        print("Float Original Fahrenheit: " + floatOgFah);
-        floatCel = (floatOgFah - 32) / 9 * 5;
-        print("Float Calculated Celsius: " + floatCel);
-        floatFahCel = (floatCel * 9) / 5 + 32;
-        print("Float Calculated Fahrenheit: " + floatFahCel);
+            // Float variables
+            float floatFah;
+            float floatCel;
+            float floatCelFah;
 
+            Console.Write("Enter a temperature in Fahrenheit: ");
+            floatFah = float.Parse(Console.ReadLine());
+            
+            floatCel = (floatFah - 32) / 9 * 5;
+            Console.WriteLine("Your float temperature in Celcius is: " + floatCel);
+            
+            floatCelFah = (floatCel * 9) / 5 + 32;
+            Console.WriteLine("Your Float Calculated Fahrenheit is: " + floatCelFah);
+            Console.WriteLine();
+            Console.WriteLine();
+
+
+
+            // double variables        
+            double doubleFah;
+            double doubleCel;
+            double doubleCelFah;
+            
+            Console.Write("Enter a temperature in Fahrenheit: ");
+            doubleFah = double.Parse(Console.ReadLine());
+
+            doubleCel = (doubleFah - 32) / 9 * 5;
+            Console.WriteLine("Your double temperature in Celsius is: " + doubleCel);
+
+            doubleCelFah = (doubleCel * 9) / 5 + 32;
+            Console.WriteLine("Your Double Calculated Fahrenheit is: " + doubleCelFah);
+        }
     }
 }
