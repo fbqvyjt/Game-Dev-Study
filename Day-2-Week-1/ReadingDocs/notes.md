@@ -19,9 +19,14 @@ Tips on how to practice reading documentation for any programming language issue
 
 ## ***Exercise 6: Trigonometry with Floats***
 Task: Declare an angle using a prompt and calculate what is the cosine of that angle.
-    - [Here's my solution.](Exercise6.cs)
+- [Here's my solution.](Exercise6.cs)
 
 
 ## ***Exercise 7: Calculations and Rounding***
-Task:
+Task: In Unity, convert from Celsius to Fahrenheit and vice versa in three different ways:
+
+1. Declare three ***int*** variables to store an original temperature in Fahrenheit
+2. Declare three ***float*** variables to store...
+3. Declare three ***double*** variables to store...
+
     - [Here's my solution.](Exercise7.cs)
