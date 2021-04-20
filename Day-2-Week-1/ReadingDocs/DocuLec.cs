@@ -14,9 +14,9 @@ namespace ReadingDoc
         public static void Main(string[] args)
         {
             // calculate and print cosine of 45 degrees
-            float cosine = 0.8;
-
-            Console.WriteLine();
+            float cosine = (float)Math.Cos(45 * Math.PI / 180);
+            Console.WriteLine("Cosine of 45 degrees: " + cosine);
+            
             Console.WriteLine();
         }
     }
