@@ -30,4 +30,10 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 4. [Floating Point Data Types](Day-2-Week-1/FloatPoint/notes.md)
 5. [Reading Documentation](Day-2-Week-1/ReadingDocs/notes.md)
 
-[Classes and Objects](Day-2-Couindex.md)
+[Classes & Objects](ClassesObjects/index.md)
+
+1. [Introduction to Classes & Object](ClassesObjects/IntroClassObj/notes.md)
+2. [Constructor & Instantiation](ClassesObjects/Constructor/notes.md)
+3. [Properties](ClassesObjects/Properties/notes.md)
+4. [Methods](ClassesObjects/Methods/notes.md)
+5. [Classes & Objects in Unity](ClassesObjects/UnityClassObj/notes.md)
