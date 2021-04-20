@@ -2,7 +2,7 @@
 Fundamental ideas behind object-oriented programming.
 
 1. [Intro to Classes & Objects](IntroClassObj/notes.md)
-    - What are objects and how important are in game development. (Spoilers: THEY ARE ESSENTIAL!)
+    - What are objects and how important are in game development? (Spoilers: THEY ARE ESSENTIAL!)
 
 2. [Instantiating Objects With a Constructor](Constructor/notes.md)
     - Moving back to using C#, the basic idea of what classes, constructors, and structs are discussed.

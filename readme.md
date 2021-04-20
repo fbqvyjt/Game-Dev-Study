@@ -22,13 +22,13 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 4. [First Unity Script & Code](Day-1/FirstUnity/notes.md)
 
 
-[Intro to Binary and its Uses in C#](Day-2-Week-1/index.md)
+[Intro to Binary and its Uses in C#](AnIntroduction/index.md)
 
-1. [Bits and Bytes](Day-2-Week-1/Binary/notes.md)
-2. [Data Types, Variables, & Constants](Day-2-Week-1/DaTyVarCon/notes.md)
-3. [Integer Data Types](Day-2-Week-1/IntDataTypes/notes.md)
-4. [Floating Point Data Types](Day-2-Week-1/FloatPoint/notes.md)
-5. [Reading Documentation](Day-2-Week-1/ReadingDocs/notes.md)
+1. [Bits and Bytes](AnIntroduction/Binary/notes.md)
+2. [Data Types, Variables, & Constants](AnIntroduction/DaTyVarCon/notes.md)
+3. [Integer Data Types](AnIntroduction/IntDataTypes/notes.md)
+4. [Floating Point Data Types](AnIntroduction/FloatPoint/notes.md)
+5. [Reading Documentation](AnIntroduction/ReadingDocs/notes.md)
 
 [Classes & Objects](ClassesObjects/index.md)
 
