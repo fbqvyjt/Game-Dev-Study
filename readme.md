@@ -29,7 +29,7 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 </details>
 
 <details>
-<summary> Chapter II: Intro to Binary and its Uses in C# </summary>
+<summary> Chapter II: Bits, Bytes and Data Types </summary>
 
 * [Overview](AnIntroduction/index.md)
 * [Bits and Bytes](AnIntroduction/Binary/notes.md)
