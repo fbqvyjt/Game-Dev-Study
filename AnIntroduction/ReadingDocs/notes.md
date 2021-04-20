@@ -22,7 +22,7 @@ Task: Declare an angle using a prompt and calculate what is the cosine of that a
 - [Here's my solution.](Exercise6.cs)
 
 
-## ***Exercise 7: Calculations and Rounding***
+## ***Exercise 7: Calculating Temperatures***
 Task: In Unity, convert from Celsius to Fahrenheit and vice versa in three different ways:
 
 1. Declare three ***int*** variables to store an original temperature in Fahrenheit
