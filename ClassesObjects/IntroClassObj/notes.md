@@ -32,7 +32,7 @@ Example Object: ***"A Playing Card"*** 🃏♠
 
 </details>
 
-## ***What is the difference between a Class and Object?***
+## ***What is the difference between a Class and an Object?***
 
 1. ***Class*** → a template for creating objects that defines the fields, properties, and behavior of every object of the class. (the cookie cutter that shapes all the cookies)
 
