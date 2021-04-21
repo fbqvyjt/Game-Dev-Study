@@ -7,7 +7,7 @@ Fundamental ideas behind object-oriented programming.
 2. [Instantiating Objects With a Constructor](Constructor/notes.md)
     - Moving back to using C#, the basic idea of what classes, constructors, and structs are discussed.
 
-3. [Properties](Properties/notes.md) 
+3. [Properties of a class](Properties/notes.md) 
     - After instantiating an object using a constructor, we now access information about its state through properties. 
 
 4. [Methods](Methods/notes.md)

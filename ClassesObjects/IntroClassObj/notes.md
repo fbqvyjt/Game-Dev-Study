@@ -19,7 +19,6 @@ Example Object: ***"A Playing Card"*** 🃏♠
 - Behavior: flip over
     - Accessed through methods (some people call them "functions")
 - Identity: when we create a new card object (instantiation)
-<br/><br/>
 
 <details>
 <summary> Important Object-Oriented Ideas: </summary>
@@ -31,6 +30,7 @@ Example Object: ***"A Playing Card"*** 🃏♠
 * Any variable that is declared to be of a class is actually a ***Reference Type*** → the bits in memory are actually a memory address of that variable where it lives rather than it being a value.
 
 </details>
+<br></br>
 
 ## ***What is the difference between a Class and an Object?***
 
