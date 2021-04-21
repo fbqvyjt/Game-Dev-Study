@@ -1,4 +1,4 @@
-# ***Constructor***
+# ***Constructor & Instantiation***
 What is a constructor and what does it mean to instantiate?
 
 ## ***What is a Constructor?***
