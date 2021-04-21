@@ -1,8 +1,8 @@
-# ***Constructor & Instantiation***
+# ***Instantiating Objects With a Constructor***
 What is a constructor and what does it mean to instantiate?
 
 ## ***What is a Constructor?***
-***Constructor*** → a class that creates ("constructs") or ***instantiates*** an object
+***Constructor*** → a class that creates (or ***instantiates***) an object
 - A constructor generally has the format → `Constructor()` 
 - It is called most of the time without being given any parameters. 
 - Well! Let's try one out!

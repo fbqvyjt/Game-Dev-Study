@@ -8,6 +8,7 @@ What is an object and class and why is it important in both C# Programming and i
 2. ***State*** → characteristics of such object that can be manipulated, moved, rotated... whatever that may to interact with the world its involved with.
 
 3. ***Behavior*** → the abilities of such model → what the object can do to/in the environment, to the player, or to itself.  
+    - it can an attack
 
 4. ***Identity*** → a memory address of that object that allows us to distinguish one object from another.
 <br/><br/>
@@ -23,7 +24,7 @@ Example Object: ***"A Playing Card"*** 🃏♠
 <details>
 <summary> Important Object-Oriented Ideas: </summary>
 
-* ***Encapsuation*** → a capsule of the behavior and the data stored in the object's state. 
+* ***Encapsuation*** → a way to access (wrap/surround) the variable and control how the properties can be changed through one of the behaviors of an object. 
 
 * ***Information Hiding*** → the consumers of the class get access to properties and behaviors from the outside of the encapsulation, however they do not understand the object as a whole. Dr. T compares it to a "black box".
 
