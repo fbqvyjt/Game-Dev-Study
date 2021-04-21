@@ -7,8 +7,7 @@ What is an object and class and why is it important in both C# Programming and i
 
 2. ***State*** → characteristics of such object that can be manipulated, moved, rotated... whatever that may to interact with the world its involved with.
 
-3. ***Behavior*** → the abilities of such model → what the object can do to/in the environment, to the player, or to itself.  
-    - it can an attack
+3. ***Behavior*** → Actions: the abilities of an object → what the object can do to/in the environment, to the player, or to itself.
 
 4. ***Identity*** → a memory address of that object that allows us to distinguish one object from another.
 <br/><br/>
@@ -26,7 +25,7 @@ Example Object: ***"A Playing Card"*** 🃏♠
 
 * ***Encapsuation*** → a way to access (wrap/surround) the variable and control how the properties can be changed through one of the behaviors of an object. 
 
-* ***Information Hiding*** → the consumers of the class get access to properties and behaviors from the outside of the encapsulation, however they do not understand the object as a whole. Dr. T compares it to a "black box".
+* ***Information Hiding*** → the consumers of the class get access to properties and behaviors from the outside of the encapsulation, however they do not understand the object as a whole.
 
 * Any variable that is declared to be of a class is actually a ***Reference Type*** → the bits in memory are actually a memory address of that variable where it lives rather than it being a value.
 
@@ -36,6 +35,10 @@ Example Object: ***"A Playing Card"*** 🃏♠
 ## ***What is the difference between a Class and an Object?***
 
 1. ***Class*** → a template for creating objects that defines the fields, properties, and behavior of every object of the class. (the cookie cutter that shapes all the cookies)
+    - Example:
+        - **Class**: Course
+        - **Properties**: Name, Location, Credit Hours, Professor, etc.
+        - **Behavior**: Add Student, Delete Student, Get Course Roster, Determine If Full, etc.
 
 2. ***Object*** → an actual instance of the class in memory.
     - Each object stores its own state
