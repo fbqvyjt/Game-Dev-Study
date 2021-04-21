@@ -5,8 +5,6 @@ Terminology and implementation on properties of an object
 
 - A ***Class*** is a description of a group of objects with common properties, behaviors, and relationships. A class is an abstraction(the most important aspect), while an object is an instance of a class.
 
-<br></br>
-
 ## ***What are the properties of an object?***
 1. ***Properties*** → Information on an object's state. Any characteristic or attribute which can be quantitatively evaluated.
     - e.g. : Pressure, temperature, velocity, energy
@@ -15,6 +13,6 @@ Terminology and implementation on properties of an object
         - If a property lists `{ get; }` → we can read it.
         - If a property lists `{ set; }` → we can write it.
         - If a property lists `{ both; }` → we can both read and write it.
-    - See how this `Deck.Empty{ get; }` code is used [here.](PropertyPrac.cs) 
+    - See how this `Deck.Empty{ get; }` code is used [here](PropertyPrac.cs).
 
 2. `bool` → a data type that can only be True or False.
