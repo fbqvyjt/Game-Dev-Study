@@ -19,3 +19,4 @@ Fundamental ideas behind object-oriented programming.
 
 5. [Classes & Objects in Unity](UnityClassObj/notes.md)
     - Using all the information we have learned in the four previous sections, we now apply our knowledge back into Unity to start making actual games.
+    
