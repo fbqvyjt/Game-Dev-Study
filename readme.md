@@ -51,3 +51,19 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 * [Classes & Objects in Unity](ClassesObjects/UnityClassObj/notes.md)
 
 </details>
+
+<details>
+<summary> Chapter IV: Basics of Unity 2D </summary>
+
+* [Overview](Unity2D/index.md)
+* [The Unity Editor](Unity2D/UnityEditor/notes.md)
+* [Sprites n' Game Objects](Unity2D/SpritesGameObj/notes.md)
+* [Unity's Component System](Unity2D/ComponSys/notes.md)
+* [Scripts as Components](Unity2D/ScriptsCompon/notes.md)
+* [Debugging a Unity Script](Unity2D/DebugScript/notes.md)
+* [2D Physics](Unity2D/PhysicsOf2D/notes.md)
+* [Colliders & Physics Materials, Part 1](Unity2D/ColidePhys-1/notes.md)
+* [Colliders & Physics Materials, Part 2](Unity2D/CollidePhys-2/notes.md)
+* [Prefabs](Unity2D/Prefabs/notes.md)
+
+</details>
