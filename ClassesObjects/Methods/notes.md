@@ -38,8 +38,8 @@ Here we learn how to access multiple behaviors of the deck object by calling the
 
 ## Exercise 8: Rolling the Dice
 Task: Create 2 dice, Tell the dice to roll themselves, print the top sides of the die and print their sum.
-- See [here](Exercises8-9/Exercise8.cs) for code.
+- See [here](../Exercises8-9/Exercise8.cs) for code.
 
 ## Exercise 9: Look at the Cards
 Task: Create a deck and tell it to print itself, tell the deck to shuffle and print itself, and take two cards from the deck and print their ranks and suits.
-- See [here](Exercises8-9/Exercise9.cs) for code.
+- See [here](../Exercises8-9/Exercise9.cs) for code.
