@@ -11,25 +11,33 @@ Here we learn how to access multiple behaviors of the deck object by calling the
 
 ### ***Deck.Print Method***:
 <p> Prints the contents of the deck. </p>
-<pre><code> public void Print()
-</code></pre>
+
+``` C#
+public void Print()
+```
 
 ### ***Deck.Shuffle Method***:
 <p> Shuffles the deck </p>
-<pre><code> public void Shuffle()
-</code></pre>
+
+``` C#
+public void Shuffle()
+```
 
 ### ***Deck.Cut Method***:
 <p> Used to cut the deck of cards at a given point </p> 
-<pre><code> public void Cut(
-        int Location
+
+``` C#
+public void Cut(
+    int Location
 )
-</code></pre>
+```
 
 ### ***Deck.TakeTopCard Method***:
 <p> Selects the first card in the deck. </p>
-<pre><code> public Card takeTopCard();
-</code></pre>
+
+``` C#
+public Card takeTopCard();
+```
 
 - Different from the other methods, this one returns a `Card` Object.
     - You do not need to add anything in the parameters as you are just taking the top card.
