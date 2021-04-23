@@ -10,7 +10,7 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 <details>
 <summary> Wait! Before We Get Started! </summary>
 
-* [Overview](index.md)
+* [Overview](Day-0/index.md)
 * [Git](Day-0/Git/notes.md)
 * [Markdown](Day-0/Markdown/notes.md)
 * [Powershell](Day-0/Powershell/notes.md)
@@ -20,11 +20,11 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 <details>
 <summary> Chapter I: Installation & Intro to C# Programming!</summary>
 
-* [Overview](Day-1/index.md)
-* [Installation Process](Day-1/Installation/notes.md)
-* ["Hello, World!" in C#](Day-1/Exercise1/notes.md)
-* [Layout of the Unity Console](Day-1/UnityConsole/notes.md)
-* [First Unity Script & Code](Day-1/FirstUnity/notes.md)
+* [Overview](Day-1-Week-1/index.md)
+* [Installation Process](Day-1-Week-1/Installation/notes.md)
+* ["Hello, World!" in C#](Day-1-Week-1/Exercise1/notes.md)
+* [Layout of the Unity Console](Day-1-Week-1/UnityConsole/notes.md)
+* [First Unity Script & Code](Day-1-Week-1/FirstUnity/notes.md)
 
 </details>
 
