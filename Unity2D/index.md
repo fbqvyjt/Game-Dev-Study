@@ -5,7 +5,7 @@ Here, I learned the fundamental basics of how to use the Unity engine when it co
     - Familiarising yourself with the different windows within the Unity Editor that are essential to game design.
 
 2. [Sprites n' Game Objects](SpritesGameObj/notes.md)
-    - 
+    - How to add sprites and game objects to the scenes in your game.
 
 3. [Unity's Component System](ComponSys/notes.md)
     - 
