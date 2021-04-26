@@ -63,6 +63,6 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 * [Colliders & Physics Materials, Part 1](Unity2D/ColidePhys-1/notes.md)
 * [Colliders & Physics Materials, Part 2](Unity2D/CollidePhys-2/notes.md)
 * [Prefabs](Unity2D/Prefabs/notes.md)
-* [Practice with 2D Unity](Unity2D/Exercises/note.md)
+* [Practice with 2D Unity](Unity2D/Exercises/notes.md)
 
 </details>
