@@ -55,6 +55,8 @@ Caution:
 * Move the game object
 * Play with force
 
+![Move That Object Result](images/UnityBoiMove.jpg)
+
 </details>
 
 <br></br>

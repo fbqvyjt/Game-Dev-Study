@@ -66,3 +66,17 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 * [Practice with 2D Unity](Unity2D/Exercises/notes.md)
 
 </details>
+
+<details>
+<summary> Chapter V: Inputs in Unity </summary>
+
+* [Overview](UnityInputs/index.md)
+* [Mouse Location Processing](UnityInputs/MouseLocationProc/notes.md)
+* [Working for the Clampdown](UnityInputs/Clampdown/notes.md)
+* [The Input Manager](UnityInputs/InputManager/notes.md)
+* [Mouse Button Processing Revisited](UnityInputs/MouseButtonProc/notes.md)
+* [Stop the Madness](UnityInputs/StopTheMadness/notes.md)
+* [Keyboard Processing](UnityInputs/KeyboardProc/notes.md)
+* [Gamepad Processing](UnityInputs/GamepadProc/notes.md)
+
+</details>
