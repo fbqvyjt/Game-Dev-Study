@@ -37,7 +37,9 @@ Caution:
     - Type in the name of the script as the class name and press "Apply" in the renaming dialog. 
     - Now the name of class and the name of the .cs file match, so Unity will let you attach the script to the  game object in your scene
 
-<img src="images/GrowingTeddiesPic.jpg" alt="Growing Teddies Result" width=1000/> Growing Teddies Result
+<br></br>
+
+![Growing Teddies Result](images/GrowingTeddiesPic.jpg)
 
 
 </details>
