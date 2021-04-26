@@ -8,7 +8,7 @@ Here, I learned the fundamental basics of how to use the Unity engine when it co
     - How to add sprites to your game, how to add game objects to the scenes in your game. Also what are components, how can they be created, and how to attach them to game objects.
 
 3. [Debugging a Unity Script](DebugScript/notes.md)
-    - 
+    - What to do if you discover there's a big in the game.
 
 4. [2D Physics](PhysicsOf2D/notes.md)
     - 
