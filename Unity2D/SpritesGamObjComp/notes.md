@@ -1,4 +1,4 @@
-# ***Sprites and Game Objects***
+# ***Sprites, Game Objects, n' Components***
 How to add sprites to your game and how to add game objects to the scenes in your game.
 
 1. ***Sprites***
@@ -20,3 +20,10 @@ How to add sprites to your game and how to add game objects to the scenes in you
     - What you need to do is actually select your main camera and change its size to 3 instead of 5
         - You should know the standard sizes of the images before you have them done so not to have art that can't fit properly in the game.
             - artworks should be a power of 2 when you design the size. this is to allow the graphics card to process properly.
+
+5. ***Component***
+    - Windows that allow us to modify a game object's state and behavior.
+    - The Transform component allows you to modify the Position, rotation, and scale of that game object.
+    -  We can also write our own components from a script
+        - Scripts can be used to modify the behavior of multiple game objects, even the main camera
+        - A script attached as a component to a game object is an instance of the script class (an object).
