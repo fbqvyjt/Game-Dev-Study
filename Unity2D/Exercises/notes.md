@@ -9,6 +9,8 @@ Practice Problems for this chapter
 * Add sprites to scene
 * Run the game
 
+![Growing Teddies Result](images/UnityBoiResult.jpg)
+
 </details>
 <br></br>
 

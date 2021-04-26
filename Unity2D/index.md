@@ -10,7 +10,7 @@ Here, I learned the fundamental basics of how to use the Unity engine when it co
 3. [Debugging a Unity Script](DebugScript/notes.md)
     - What to do if you discover there's a big in the game.
 
-4. [2D Physics](PhysicsOf2D/notes.md)
+4. [Let's Get Physical: 2D Physics](PhysicsOf2D/notes.md)
     - 
 
 5. [Colliders & Physics Materials, Part 1](ColidePhys-1/notes.md)
