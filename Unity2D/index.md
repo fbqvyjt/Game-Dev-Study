@@ -23,3 +23,4 @@ Here, I learned the fundamental basics of how to use the Unity engine when it co
     - 
 
 8. [Practice with 2D Unity](Exercises/notes.md)
+    - Some practice examples to utilize information taught in this chapter.
