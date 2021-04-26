@@ -21,3 +21,5 @@ Here, I learned the fundamental basics of how to use the Unity engine when it co
 
 7. [Prefabs](Prefabs/notes.md)
     - 
+
+8. [Practice with 2D Unity](Exercises/notes.md)
