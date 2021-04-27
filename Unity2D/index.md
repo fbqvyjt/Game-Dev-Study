@@ -13,14 +13,11 @@ Here, I learned the fundamental basics of how to use the Unity engine when it co
 4. [Let's Get Physical: 2D Physics](PhysicsOf2D/notes.md)
     - 
 
-5. [Colliders & Physics Materials, Part 1](ColidePhys-1/notes.md)
+5. [Colliders & Physics Materials](CollidersPhys/notes.md)
     - 
 
-6. [Colliders & Physics Materials, Part 2](CollidePhys-2/notes.md)
+6. [Prefabs](Prefabs/notes.md)
     - 
 
-7. [Prefabs](Prefabs/notes.md)
-    - 
-
-8. [Practice with 2D Unity](Exercises/notes.md)
+7. [Practice with 2D Unity](Exercises/notes.md)
     - Some practice examples to utilize information taught in this chapter.
