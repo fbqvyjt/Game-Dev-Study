@@ -58,5 +58,19 @@ void Start()
 <br></br>
 
 ## Time to make colliders
-1. Colliders can be found in the components are.
+1. Colliders can be found in the components area.
     - For this lecture, we used the ***box collider*** for the game object and an ***edge collider*** for the main camera
+    - Now if you were to run it, the game object will just touch the edge collider of the main camera but it will not really do anything more than that... 
+        <details>
+        <summary> Why is that? </summary>
+
+        * Colliders are conceptionally made of a particular physics material that has characteristic, so we have to create materials for it (add a folder with 2D → ***Physics Material 2D***)
+    </details>
+
+2. Once you have made a materials folder and two prospective Physics 2D Materials
+    - change their "friction" to 0 and their "bounciness" to anything above 0
+3. Now things look good, but lets spice things up and add a purpose to when the two colliders colide.
+    - now that "moving" isn't the purpose of the Mover script, rename it to the name of your sprite.(REMEMBER to fix in both Unity, and in your code so that the engine doen't get indigestion).
+    - So back in the script, we need to call a method to give the collision a purpose. In order to do that, we need to find a method through documentation on MonoBehavior. It does something called "Inherit from" that we will discuss later.
+    - In the Documentation, we find the `MonoBehavior.OnCollisionEnter2D(Collision2D)` method which asks for the engine to do a specific thing when an incoming collider makes contact with the object's collider.
+    - Once we do that, you can just easily print him saying something (or later we can affect the game object's properties in some way).
