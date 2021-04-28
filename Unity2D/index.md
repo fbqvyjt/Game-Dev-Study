@@ -11,13 +11,13 @@ Here, I learned the fundamental basics of how to use the Unity engine when it co
     - What to do if you discover there's a big in the game.
 
 4. [Let's Get Physical: 2D Physics](PhysicsOf2D/notes.md)
-    - 
+    - What are 2D Physics and how are they used?
 
 5. [Colliders & Physics Materials](CollidersPhys/notes.md)
-    - 
+    - What is a collision detecton and resolution, and how are colliders and physics materials utilized in Unity?
 
 6. [Prefabs](Prefabs/notes.md)
-    - 
+    - How are prefabs used in Unity and what exactly are they?
 
 7. [Practice with 2D Unity](Exercises/notes.md)
     - Some practice examples to utilize information taught in this chapter.

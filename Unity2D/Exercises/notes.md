@@ -69,6 +69,9 @@ Caution:
 
 * Create a project and add sprites
 * Add sprites to scene
-* Make teddy bears move 
+* Make game objects move
+
+![More Unity Practice](images/CollisionAndPrefabResult.jpg)
+
 
 </details>

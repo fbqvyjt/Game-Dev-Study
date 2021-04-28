@@ -1,5 +1,5 @@
 # ***Colliders & Physics Materials***
-What is collision detecton and resolution, and how are colliders and physics materials utilized in Unity?
+What is a collision detecton and resolution, and how are colliders and physics materials utilized in Unity?
 
 <details>
 <summary> Some definitions to start off with... </summary>
