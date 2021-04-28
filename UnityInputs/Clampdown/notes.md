@@ -8,7 +8,7 @@ Some Definitions:
 
 3. ***Initializer*** → a method that initializes a class. In this context, the ScreenUtils is whats initialized.
 
-## Note!*** 
+## ***Note!*** 
 - This section is more focused on the conceptualization of how a clamp functions. Most of the code from the lecture was (supposed to be) provided for and the purpose of the ScreenUtils and Initializer are more important than what is in them (FOR THE TIME BEING).
 
 <details>
