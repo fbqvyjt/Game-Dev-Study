@@ -1,10 +1,10 @@
 # ***Unity Input***
 Here, I learned the fundamental control inputs to allow the player to use a controller or keyboard/mouse.
 
-1. [Mouse Location Processing](UnityInputs/MouseLocationProc/notes.md)
-    - 
+1. [Intro to Inputs: Mouse Location Processing](UnityInputs/MouseLocationProc/notes.md)
+    - What are inputs and how can we process mouse inputs?
 
-2. [Working for the Clampdown](UnityInputs/Clampdown/notes.md)
+2. [Clash of the Clamps](UnityInputs/Clampdown/notes.md)
     - 
 
 3. [The Input Manager](UnityInputs/InputManager/notes.md)

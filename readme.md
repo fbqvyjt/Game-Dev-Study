@@ -70,8 +70,8 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 <summary> Chapter V: Inputs in Unity </summary>
 
 * [Overview](UnityInputs/index.md)
-* [Mouse Location Processing](UnityInputs/MouseLocationProc/notes.md)
-* [Working for the Clampdown](UnityInputs/Clampdown/notes.md)
+* [Intro to Inputs: Mouse Location Processing](UnityInputs/MouseLocationProc/notes.md)
+* [Clash of the Clamps](UnityInputs/Clampdown/notes.md)
 * [The Input Manager](UnityInputs/InputManager/notes.md)
 * [Mouse Button Processing Revisited](UnityInputs/MouseButtonProc/notes.md)
 * [Stop the Madness](UnityInputs/StopTheMadness/notes.md)
