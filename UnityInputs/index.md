@@ -21,3 +21,5 @@ Here, I learned the fundamental control inputs to allow the player to use a cont
 
 7. [Gamepad Processing](UnityInputs/GamepadProc/notes.md)
     - 
+8. [Unity Input Practice Problems](UnityInputs/Exercises/notes.md)
+    - 

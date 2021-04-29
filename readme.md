@@ -77,5 +77,6 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 * [Stop the Madness](UnityInputs/StopTheMadness/notes.md)
 * [Keyboard Processing](UnityInputs/KeyboardProc/notes.md)
 * [Gamepad Processing](UnityInputs/GamepadProc/notes.md)
+* [Unity Input Practice Problems](UnityInputs/Exercises/notes.md)
 
 </details>
