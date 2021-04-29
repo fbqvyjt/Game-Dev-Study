@@ -8,6 +8,7 @@ How the character responds from a mouse button by the player
 * ***Instantiate*** → bringing a GameObject into existance. ❤😁
     - Items appear, or "spawn" in the game.
 * ***Destroy*** → removing a GameObject out of existance, or Death. ☠🤪
+* ***Serialization*** → the automatic process of transforming data structures or object states into a format that Unity can store and reconstruct later. 📫📦
 
 </details>
 
