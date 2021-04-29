@@ -10,7 +10,7 @@ Here, I learned the fundamental control inputs to allow the player to use a cont
 3. [The Input Manager](UnityInputs/InputManager/notes.md)
     - 
 
-4. [Mouse Button Processing Revisited](UnityInputs/MouseButtonProc/notes.md)
+4. [Pushing Buttons... with a Mouse!](UnityInputs/MouseButtonProc/notes.md)
     - 
 
 5. [Stop the Madness](UnityInputs/StopTheMadness/notes.md)
