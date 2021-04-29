@@ -1,25 +1,28 @@
 # ***Unity Input***
 Here, I learned the fundamental control inputs to allow the player to use a controller or keyboard/mouse.
 
-1. [Intro to Inputs: Mouse Location Processing](UnityInputs/MouseLocationProc/notes.md)
+1. [Intro to Inputs: Mouse Location Processing](MouseLocationProc/notes.md)
     - What are inputs and how can we process mouse inputs?
 
-2. [Clash of the Clamps](UnityInputs/Clampdown/notes.md)
+2. [Clash of the Clamps](Clampdown/notes.md)
+    - How to clamp the game object so that it stays within the screen.
+
+3. [Pushing Buttons... with a Mouse!](MouseButtonProc/notes.md)
+    - How the character responds from a mouse button by the player
+
+4. [The Input Manager](InputManager/notes.md)
+    - Set up and understanding of the Input Manager and how is it useful for those playing our games.
+
+5. [Pushing More Buttons...](MouseButtonRevisit/notes.md)
+    - Converting mouse button processing to use the input manager.
+
+6. [Stop the Madness](StopTheMadness/notes.md)
     - 
 
-3. [The Input Manager](UnityInputs/InputManager/notes.md)
+7. [Keyboard Processing](KeyboardProc/notes.md)
     - 
 
-4. [Pushing Buttons... with a Mouse!](UnityInputs/MouseButtonProc/notes.md)
+8. [Gamepad Processing](GamepadProc/notes.md)
     - 
-
-5. [Stop the Madness](UnityInputs/StopTheMadness/notes.md)
-    - 
-
-6. [Keyboard Processing](UnityInputs/KeyboardProc/notes.md)
-    - 
-
-7. [Gamepad Processing](UnityInputs/GamepadProc/notes.md)
-    - 
-8. [Unity Input Practice Problems](UnityInputs/Exercises/notes.md)
+9. [Unity Input Practice Problems](Exercises/notes.md)
     - 

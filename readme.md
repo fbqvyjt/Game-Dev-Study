@@ -74,6 +74,7 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 * [Clash of the Clamps](UnityInputs/Clampdown/notes.md)
 * [Pushing Buttons... with a Mouse!](UnityInputs/MouseButtonProc/notes.md)
 * [The Input Manager](UnityInputs/InputManager/notes.md)
+* [Pushing More Buttons...](UnityInputs/MouseButtonRevisit/notes.md)
 * [Stop the Madness](UnityInputs/StopTheMadness/notes.md)
 * [Keyboard Processing](UnityInputs/KeyboardProc/notes.md)
 * [Gamepad Processing](UnityInputs/GamepadProc/notes.md)

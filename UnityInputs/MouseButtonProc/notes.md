@@ -1,4 +1,4 @@
-# ***Pushing Buttons... with a Mouse!***
+# ***Pushing Some Buttons with a Mouse!*** 🖱
 How the character responds from a mouse button by the player
 
 <details>
@@ -12,7 +12,7 @@ How the character responds from a mouse button by the player
 
 </details>
 
-Lets Make a new script that changes the character
+## Changing the character, one click at a time 🖱
 1. First create a new script called "CharacterChanger"
     - Go ahead and attach this to the main camera, not the character.
         - The purpose behind this is so that the the character itself isn't what changes to a new character, its actually more outside influences such as the main character.
@@ -39,7 +39,7 @@ Lets Make a new script that changes the character
 
     
 <details>
-<summary> The Completed Code of this New Script File </summary>
+<summary> The Completed Code of this New Script File 🖱 </summary>
 
 ```C#
 sing System.Collections;
