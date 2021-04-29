@@ -17,10 +17,10 @@ Here, I learned the fundamental control inputs to allow the player to use a cont
     - Converting mouse button processing to use the input manager.
 
 6. [Stop the Madness](StopTheMadness/notes.md)
-    - 
+    - Fixing the issues that occured from the "Pushing More Buttons..." section!
 
-7. [Keyboard Processing](KeyboardProc/notes.md)
-    - 
+7. [The Keys in Input: Keyboard Processing](KeyboardProc/notes.md)
+    - Using the keyboard for inputs in Unity Games
 
 8. [Gamepad Processing](GamepadProc/notes.md)
     - 
