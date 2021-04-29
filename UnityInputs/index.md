@@ -20,9 +20,10 @@ Here, I learned the fundamental control inputs to allow the player to use a cont
     - Fixing the issues that occured from the "Pushing More Buttons..." section!
 
 7. [The Keys to Input: Keyboard Processing](KeyboardProc/notes.md)
-    - Using the keyboard for inputs in Unity Games
+    - Using the keyboard for inputs in Unity games
 
-8. [Gamepad Processing](GamepadProc/notes.md)
-    - 
+8. [Controlling the Hero: Gamepad Processing](GamepadProc/notes.md)
+    - Using the gamepad for inputs in Unity games
+
 9. [Unity Input Practice Problems](Exercises/notes.md)
-    - 
+    - Three exercises practicing on Mouse Button Processing, The Input Manager, and Keyboard Processing.
