@@ -108,10 +108,60 @@ public class MouseButtonProcessor : MonoBehaviour
 
 <details>
 <summary> Finally, a Driving Game </summary>
+Tasks:
 
-* 
-* 
-* 
-* 
+* Create a new 2D project and add a sprite.
+* Add a new Driver class (script) that drives the game object based on keyboard input.
+* Delete the `Start()` method and set up code in the `Update()` method to have the game object drive horizontally.
+* Save the value on the Horizontal input axis (already provided in the default Unity Project) into a variable called `horizontalInput` and to check if that value is non-zero.
+* If there is input on that axis, change the x position of the game object (using a local variable as usual).
+* The appropriate amount to change the x position is:
+
+```C#
+horizontalInput * MoveUnitsPerSecond * Time.deltaTime
+```
+
+* Set up code in the `Update()` method to have the game object drive vertically, changing its y position.
+* Attach script to game object.
+* Run the game.
+* What the script code should look like:
+
+```C#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Driver : MonoBehaviour
+{
+    const float MoveUnitsPerSecond = 5;
+
+   
+    // Update is called once per frame
+    void Update()
+    {
+        float horizontalInput = Input.GetAxis("Horizontal");
+        float verticalInput = Input.GetAxis("Vertical");
+        if (horizontalInput != 0)
+        {
+            // used to have Vector3 position declared before the floats were declared. 
+            Vector3 position = transform.position;
+            position.x += horizontalInput * MoveUnitsPerSecond * Time.deltaTime;
+            
+            // didn't have this here at first.
+            // makes sense tho cuz the position needs to be initiated then transformed to work. 
+            transform.position = position;
+        }
+
+        if (verticalInput != 0)
+        {
+            Vector3 position = transform.position; //
+            position.y += verticalInput * MoveUnitsPerSecond * Time.deltaTime;
+            
+            transform.position = position;
+        }
+    }
+}
+
+```
 
 </details>
