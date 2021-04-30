@@ -10,7 +10,7 @@ Convert mouse button processing to use the input manager.
 5. Make the **Positive Button** → "mouse 0", and remove the **Alt Positive Button**. Now you are done in the manager.
 6. Back in the script, after looking through documentation, `Input.GetAxis(string axisName)` is the code we want to use that returns the value of the virtual axis identified by `axisName`. 
     - The value will be in the range -1 ... 1 for keyboard and joystick input devices. For mouse the value has to just be > 0.
-7. Just change the if statment to: 
+7. Just change the `if` statement to: 
 
 ```C#
 if (Input.GetAxis("ChangeCharacter") > 0)
