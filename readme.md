@@ -81,3 +81,32 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 * [Unity Input Practice Problems](Course1/UnityInputs/Exercises/notes.md)
 
 </details>
+
+<details>
+<summary> Chapter VI: Arrays & Lists </summary>
+
+* [Overview](Course2/ArraysNLists/index.md)
+* [Arrays in Theory](Course2/ArraysNLists/ArraysinTheory/notes.md)
+* [Arrays in Practice](Course2/ArraysNLists/ArraysinPractice/notes.md)
+* [Why it gotta be Zero?](Course2/ArraysNLists/WhyZero/notes.md)
+* [Lists](Course2/ArraysNLists/Lists/notes.md)
+* [Ted the Collector](Course2/ArraysNLists/TedtheCollector/notes.md)
+* [Practice](Course2/ArraysNLists/Exercises/notes.md)
+
+</details>
+
+<details>
+<summary> Chapter VII: Iteration </summary>
+
+* [Overview](Course2/Iteration/index.md)
+* [Adding a DLL](Course2/Iteration/AddingDLL/notes.md)
+* [For Loops](Course2/Iteration/ForLoops/notes.md)
+* [Foreach Loops](Course2/Iteration/ForeachLoops/notes.md)
+* [Blowing Up Teddies, Take 1](Course2/Iteration/ExplodingTeddies-1/notes.md)
+* [Blowing Up Teddies, Take 2](Course2/Iteration/ExplodingTeddies-2/notes.md)
+* [Ted the Collector Revisited](Course2/Iteration/TedtheCollector-2/notes.md)
+* [While Loops](Course2/Iteration/WhileLoops/notes.md)
+* [Collision-Free Spawning](Course2/Iteration/CollisionFreeSpawning/notes.md)
+* [Project: Let it Rock](Course2/Iteration/LetItRock/notes.md)
+
+</details>
