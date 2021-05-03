@@ -1,4 +1,6 @@
 # ***Arrays in Practice***
+How to use Arrays in C# (THIS IS UNITY CODE. REFER TO EXERCISE 1 FOR TYPICAL C# SYNTAX in VISUAL STUDIO COMMUNITY).
+
 
 1. Now its time to add an array in our Change Character Exercise
     - At the top of your code in the Character Changer Scripts create an array as such below:

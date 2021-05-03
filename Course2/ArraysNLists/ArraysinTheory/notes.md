@@ -12,4 +12,6 @@ How can one efficiently store and use multiple data values in a game?
 
 ***IMPORTANT TAKE AWAY***: Arrays are called as variables so it saves you a lot of time.
 
+4. The Reason we use 0 as our starting index for arrays is because the index forms the basis for a memory address offset from the base address or the address of the first element in the array.
+
 
