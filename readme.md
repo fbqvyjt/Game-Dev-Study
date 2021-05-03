@@ -88,7 +88,7 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 * [Overview](Course2/ArraysNLists/index.md)
 * [Arrays in Theory](Course2/ArraysNLists/ArraysinTheory/notes.md)
 * [Arrays in Practice](Course2/ArraysNLists/ArraysinPractice/notes.md)
-* [Why it gotta be Zero?](Course2/ArraysNLists/WhyZero/notes.md)
+* [Why it Gotta be Zero?](Course2/ArraysNLists/WhyZero/notes.md)
 * [Lists](Course2/ArraysNLists/Lists/notes.md)
 * [Ted the Collector](Course2/ArraysNLists/TedtheCollector/notes.md)
 * [Practice](Course2/ArraysNLists/Exercises/notes.md)

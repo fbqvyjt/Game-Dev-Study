@@ -2,7 +2,7 @@
 
 
 1. [Arrays in Theory](ArraysinTheory/notes.md)
-    - 
+    - How can one efficiently store and use multiple data values in a game?
 
 2. [Arrays in Practice](ArraysinPractice/notes.md)
     - 
