@@ -11,7 +11,7 @@
     - How can we use lists and how they differ from arrays.
 
 4. [Ted the Collector](TedtheCollector/notes.md)
-    - 
+    - How we can use lists to make GameObjects collect things.
 
 5. [Practice](Exercises/notes.md)
     - Practice problems on arrays and lists.
