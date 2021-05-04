@@ -77,13 +77,11 @@ namespace ForeachLoops
     - the output is initially hand[0], then cycles as many times as the number of elements in the list
 
 ```C#
-
 foreach (Card card in hand)
 {
     Console.WriteLine(card.Rank + " of " +
         card.Suit);
 }
-
 ```
 4. The place you can't replace the `for` to the `foreach` is when we add 5 cards to the hand.
     - This is because we must use a `for` loop when we are not iterating over an array or list.
@@ -91,3 +89,11 @@ foreach (Card card in hand)
 5. What if we want to remove the card that has been picked?
     - Simple, right? Well, if you were to write `hand.Remove(card);`, you would get an error. This is because you cannot modify the Collections directory.
     - If we want to make changes, we HAVE to use a for loop. We are never allowed to change the list inside a `foreach` loop.
+
+<br></br>
+
+## Important Things to remember
+1. If we were trying to find the location of a particular value we'd need to keep track of that location, and ther's no way ina `foreach` loop to know where we are in the array or list on a particular iteration.
+
+2. We can't use a `foreach` loop to change contents in an array or list.
+
