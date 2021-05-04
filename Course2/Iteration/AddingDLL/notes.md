@@ -46,20 +46,7 @@ using ConsoleCard;
 
 namespace ForLoops
 {
-    /// <summary>
-    /// For Loops Lecture code
-    /// </summary>
-    class MainClass
-    {
-        /// <summary>
-        /// Demonstrates for Loops
-        /// </summary>
-        /// <param name ="args">command-line arguments</param>
-        public static void Main(string[] args)
-        {
-            Console.WriteLine();
-        }
-    }
+    // insert code here.
 }
 
 

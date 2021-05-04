@@ -4,7 +4,7 @@
     - What is a DLL and how is it implemented in code?
 
 2. [For Loops](ForLoops/notes.md)
-    - That is the question. Whether 'tis nobler to understand them here, or not, is the importance in this section.
+    - That is the question. Whether 'tis nobler to understand, or not, how iterations work is the importance in this section.
 
 3. [Foreach Loops](ForeachLoops/notes.md)
     - 
