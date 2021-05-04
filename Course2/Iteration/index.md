@@ -1,10 +1,10 @@
 # ***Iteration***
 
 1. [Adding a DLL](AddingDLL/notes.md)
-    - 
+    - What is a DLL and how is it implemented in code?
 
 2. [For Loops](ForLoops/notes.md)
-    - 
+    - That is the question. Whether 'tis nobler to understand them here, or not, is the importance in this section.
 
 3. [Foreach Loops](ForeachLoops/notes.md)
     - 
