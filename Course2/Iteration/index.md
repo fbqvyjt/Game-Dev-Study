@@ -3,11 +3,11 @@
 1. [Adding a DLL](AddingDLL/notes.md)
     - What is a DLL and how is it implemented in code?
 
-2. [For Loops](ForLoops/notes.md)
+2. [To For Loop, or Not To For Loop](ForLoops/notes.md)
     - That is the question. Whether 'tis nobler to understand, or not, how iterations work is the importance in this section.
 
-3. [Foreach Loops](ForeachLoops/notes.md)
-    - 
+3. [Foreach? Ha! More like Halo Reach!](ForeachLoops/notes.md)
+    - How to use `foreach` loops and how they differ from `for` loops
 
 4. [Blowing Up Teddies, Take 1](ExplodingTeddies-1/notes.md)
     - 

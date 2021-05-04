@@ -99,8 +99,8 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 
 * [Overview](Course2/Iteration/index.md)
 * [Adding a DLL](Course2/Iteration/AddingDLL/notes.md)
-* [For Loops](Course2/Iteration/ForLoops/notes.md)
-* [Foreach Loops](Course2/Iteration/ForeachLoops/notes.md)
+* [To For Loops, or Not To For Loops](Course2/Iteration/ForLoops/notes.md)
+* [Foreach? Ha! More like Halo Reach!](Course2/Iteration/ForeachLoops/notes.md)
 * [Blowing Up Teddies, Take 1](Course2/Iteration/ExplodingTeddies-1/notes.md)
 * [Blowing Up Teddies, Take 2](Course2/Iteration/ExplodingTeddies-2/notes.md)
 * [Ted the Collector Revisited](Course2/Iteration/TedtheCollector-2/notes.md)

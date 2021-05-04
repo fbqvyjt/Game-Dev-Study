@@ -1,4 +1,4 @@
-# ***For Loops, or Not For Loops***
+# ***To For Loops, or Not To For Loops***
 That is the question. Whether 'tis nobler to understand, or not, how iterations work is the importance in this section.
 
 ## Determining What Kind of Iteration (or Looping):
@@ -8,7 +8,7 @@ That is the question. Whether 'tis nobler to understand, or not, how iterations 
     and/or
     - `foreach` loop (we will focus on ONLY for loops in this section)
 
-## Let's Visualize How to Use For Loops!
+## How to Use For Loops
 
 <details>
 <summary> Code to follow along </summary>
@@ -69,6 +69,7 @@ namespace ForLoops
 
 ```
 </details>
+<br></br>
 
 1. Make sure to add the System Collections using directive.
 
