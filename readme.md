@@ -62,7 +62,7 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 * [Let's Get Physical: 2D Physics](Course1/Unity2D/PhysicsOf2D/notes.md)
 * [Colliders & Physics Materials](Course1/Unity2D/CollidersPhys/notes.md)
 * [Prefabs](Course1/Unity2D/Prefabs/notes.md)
-* [Practice with 2D Unity](Course1/Unity2D/Exercises/notes.md)
+* [Practice](Course1/Unity2D/Exercises/notes.md)
 
 </details>
 
@@ -78,7 +78,7 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 * [Stop the Madness](Course1/UnityInputs/StopTheMadness/notes.md)
 * [The Keys to Input: Keyboard Processing](Course1/UnityInputs/KeyboardProc/notes.md)
 * [Controlling the Hero: Gamepad Processing](Course1/UnityInputs/GamepadProc/notes.md)
-* [Unity Input Practice Problems](Course1/UnityInputs/Exercises/notes.md)
+* [Practice](Course1/UnityInputs/Exercises/notes.md)
 
 </details>
 
@@ -106,6 +106,30 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 * [Ted the Collector Revisited](Course2/Iteration/TedtheCollector-2/notes.md)
 * [While Loops](Course2/Iteration/WhileLoops/notes.md)
 * [Collision-Free Spawning](Course2/Iteration/CollisionFreeSpawning/notes.md)
+* [Practice](Course2/Iteration/Exercises/notes.md)
 * [Project: Let it Rock](Course2/Iteration/LetItRock/notes.md)
+
+</details>
+
+
+<details>
+<summary> Chapter VIII: Abstraction </summary>
+
+* [Rock and Roll](Course2/Abstraction/RockNRoll/notes.md)
+* [What is a Chair?](Course2/Abstraction/WhatsAChair/notes.md)
+* [Abstraction in Code](Course2/Abstraction/AbstractionInCode/notes.md)
+* [Practice](Course2/Abstraction/Exercises/notes.md)
+
+</details>
+
+<details>
+<summary> Chapter IX: Console App Classes </summary>
+
+* [Designing the Class](Course2/ConsoleApp/DesigningTheClass/notes.md)
+* [Fields and Properties](Course2/ConsoleApp/FieldsNProperties/notes.md)
+* [One Constructor](Course2/ConsoleApp/OneConstructor/notes.md)
+* [Another Constructor](Course2/ConsoleApp/AnotherConstructor/notes.md)
+* [Method](Course2/ConsoleApp/Method/notes.md)
+* [Practice](Course2/ConsoleApp/Exercises/notes.md)
 
 </details>

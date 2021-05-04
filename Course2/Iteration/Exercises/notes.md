@@ -21,17 +21,39 @@ Tasks:
 <br></br>
 
 
-
 <details>
-<summary> Example 2 </summary>
+<summary> Example 2: For and Foreach Loops </summary>
+
+Tasks:
+1. Print numbers in user selected range
+    - Prompt for and get lower and upper bounds for numbers to print
+    - Use a for loop to print the numbers between the lower and upper bound (inclusive).
+
+2. Create objects
+    - Inside the `Main()` method, declare a deck variable
+    - Inside the `Main()` method, declare a list variable that will hold a hand of cards and create a new list object for that variable.
+    - Tell the deck to shuffle itself.
+
+3. Deal & print the cards in a hand using `for` and `foreach` loops
+    - Use a `for` loop to deal 5 cards from the deck to the hand
+    - Use a `for` loop to flip all the cards in the hand over. Do NOT hard-code 5 as the upper limit of the loop.
+    - Use a `foreach` loop (not a for loop) to print all the cards in the hand (remember, the `Card` class exposes a `Print()` method).
+
+
+- See Solution Code [here](exercise4.cs)
 
 </details>
 <br></br>
 
 
-
 <details>
-<summary> Example 3 </summary>
+<summary> Example 3: While Loops </summary>
+
+Tasks:
+1. 
+2. 
+3. 
+
 
 </details>
 <br></br>
