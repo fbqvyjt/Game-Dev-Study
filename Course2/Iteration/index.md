@@ -10,12 +10,12 @@
     - How to use `foreach` loops and how they differ from `for` loops
 
 4. [Blowing Up Teddies, Take 1](ExplodingTeddies-1/notes.md)
-    - 
+    - How to selectively process game objects using a list and a for loop. In this case, the game object are exploding Teddies.
 
 5. [Blowing Up Teddies, Take 2](ExplodingTeddies-2/notes.md)
-    - 
+    - Using a list, a for loop, and a Unity feature called tags. 
 
-6. [Ted the Collector Revisited](TedtheCollector-2/notes.md)
+6. [It's Good Ole Ted the Collector Again!](TedtheCollector-2/notes.md)
     - 
 
 7. [While Loops](WhileLoops/notes.md)
