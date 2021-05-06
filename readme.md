@@ -103,7 +103,7 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 * [Foreach? Ha! More like Halo Reach!](Course2/Iteration/ForeachLoops/notes.md)
 * [Blowing Up Teddies, Take 1](Course2/Iteration/ExplodingTeddies-1/notes.md)
 * [Blowing Up Teddies, Take 2](Course2/Iteration/ExplodingTeddies-2/notes.md)
-* [Ted the Collector Revisited](Course2/Iteration/TedtheCollector-2/notes.md)
+* [It's Good Ole Ted the Collector Again!](Course2/Iteration/TedtheCollector-2/notes.md)
 * [While Loops](Course2/Iteration/WhileLoops/notes.md)
 * [Collision-Free Spawning](Course2/Iteration/CollisionFreeSpawning/notes.md)
 * [Practice](Course2/Iteration/Exercises/notes.md)

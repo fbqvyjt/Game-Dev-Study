@@ -16,7 +16,7 @@
     - Using a list, a for loop, and a Unity feature called tags. 
 
 6. [It's Good Ole Ted the Collector Again!](TedtheCollector-2/notes.md)
-    - 
+    - With what we've learned in iteration, let's make the Ted the Collector game a little more... SPICY!
 
 7. [While Loops](WhileLoops/notes.md)
     - 
