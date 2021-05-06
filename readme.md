@@ -104,7 +104,7 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 * [Blowing Up Teddies, Take 1](Course2/Iteration/ExplodingTeddies-1/notes.md)
 * [Blowing Up Teddies, Take 2](Course2/Iteration/ExplodingTeddies-2/notes.md)
 * [It's Good Ole Ted the Collector Again!](Course2/Iteration/TedtheCollector-2/notes.md)
-* [While Loops](Course2/Iteration/WhileLoops/notes.md)
+* [Loops? You While-ing!](Course2/Iteration/WhileLoops/notes.md)
 * [Collision-Free Spawning](Course2/Iteration/CollisionFreeSpawning/notes.md)
 * [Practice](Course2/Iteration/Exercises/notes.md)
 * [Project: Let it Rock](Course2/Iteration/LetItRock/notes.md)

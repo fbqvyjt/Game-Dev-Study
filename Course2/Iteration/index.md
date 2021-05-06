@@ -18,8 +18,8 @@
 6. [It's Good Ole Ted the Collector Again!](TedtheCollector-2/notes.md)
     - With what we've learned in iteration, let's make the Ted the Collector game a little more... SPICY!
 
-7. [While Loops](WhileLoops/notes.md)
-    - 
+7. [Loops? You While-ing!](WhileLoops/notes.md)
+    - What are While loops and how are they different from `for` and `foreach` loops.
 
 8. [Collision-Free Spawning](CollisionFreeSpawning/notes.md)
     - 

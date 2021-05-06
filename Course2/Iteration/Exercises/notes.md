@@ -50,10 +50,35 @@ Tasks:
 <summary> Example 3: While Loops </summary>
 
 Tasks:
-1. 
-2. 
-3. 
+1. Create and use a menu using a while loop
+    - Create a menu of choices for your user. It should look like the following:
 
+```C#
+**************
+
+Menu:
+
+1 - NewGame
+
+2 - LoadGame
+
+3 - Options
+
+4 - Quit
+
+****************
+```
+- You should then prompt for and read in the user's choice as an integer.
+- Your application should print an appropriate response confirming their choice, such as: `Loading game...`
+- If the user selects 4, you should stop the while loop and exit the application when the user presses enter.
+
+2. Implement input validation
+    - Add a while loop that validates the user's input value before printing the appropriate message or quits the game. Although you could include this validation in your if statement and your outer while loop, use a while loop for this to get more practice with while loops.
+
+3. Refractor
+    - Now that you've practiced using another while loop, delete the while loop from the previous problem and use your if statement and the outer while loop to implement the input validation.
+
+- See Solution Code [Here](exercise5.cs)
 
 </details>
 <br></br>
