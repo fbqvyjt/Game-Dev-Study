@@ -1,4 +1,5 @@
 # ***Iterations Practice***
+Practice examples for For, Foreach, and While Loops
 
 <details>
 <summary> Example 1: Keeping the Odd - For Loops </summary>

@@ -115,8 +115,9 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 <details>
 <summary> Chapter VIII: Abstraction </summary>
 
+* [Overview](Course2/Abstraction/index.md)
 * [Rock and Roll](Course2/Abstraction/RockNRoll/notes.md)
-* [What is a Chair?](Course2/Abstraction/WhatsAChair/notes.md)
+* [The Chair of Our Dreams](Course2/Abstraction/WhatsAChair/notes.md)
 * [Abstraction in Code](Course2/Abstraction/AbstractionInCode/notes.md)
 * [Practice](Course2/Abstraction/Exercises/notes.md)
 
@@ -125,6 +126,7 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 <details>
 <summary> Chapter IX: Console App Classes </summary>
 
+* [Overview](Course2/ConsoleApp/index.md)
 * [Designing the Class](Course2/ConsoleApp/DesigningTheClass/notes.md)
 * [Fields and Properties](Course2/ConsoleApp/FieldsNProperties/notes.md)
 * [One Constructor](Course2/ConsoleApp/OneConstructor/notes.md)

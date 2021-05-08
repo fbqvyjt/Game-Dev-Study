@@ -22,10 +22,10 @@
     - What are While loops and how are they different from `for` and `foreach` loops.
 
 8. [Collision-Free Spawning](CollisionFreeSpawning/notes.md)
-    - 
+    - How to use a while loop to make sure that we spawn into a collision free location.
 
 9. [Project: Let it Rock](LetItRock/notes.md)
     - 
 
 10. [Practice](Exercises/notes.md)
-    - 
+    - Practice examples for For, Foreach, and While Loops
