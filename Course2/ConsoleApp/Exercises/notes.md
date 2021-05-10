@@ -163,5 +163,130 @@ namespace AppleExercise
 <details>
 <summary> Eating an Apple </summary>
 
+* Implement the `TakeBite()` method for the Apple class from the previous exercises.
+
+```C#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AppleExercise
+{
+    /// <summary>
+    /// An apple
+    /// </summary>
+    class Apple
+    {
+        #region Fields
+
+        bool organic;
+        float amountLeft;
+
+        #endregion
+
+        #region Constructor
+
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="organic">If set to <c>true</c>, the apple is organic</param>
+        /// <param name="size">size of the apple</param>
+        public Apple(bool organic, float size)
+        {
+            this.organic = organic;
+            amountLeft = size;
+        }
+
+        #endregion
+
+        #region Properties
+
+        /// <summary>
+        /// Gets whether or not the apple is organic
+        /// </summary>
+        public bool Organic
+        {
+            get { return organic; }
+        }
+
+        /// <summary>
+        /// Gets how much apple is left to eat
+        /// </summary>
+        public float AmountLeft
+        {
+            get { return amountLeft; }
+        }
+
+        #endregion
+
+        #region Method
+
+        /// <summary>
+        /// Takes a bite of the given size from the apple
+        /// </summary>
+        /// <param name="size">size of the bite to take</param>
+        public void TakeBite(float size)
+        {
+            if (size <= amountLeft)
+            {
+                amountLeft -= size;
+            }
+            else
+            {
+                amountLeft = 0;
+            }
+        }
+
+        #endregion
+    }
+}
+
+```
+
+* Add code to your `Main()` method to declare a constant bite size, then use a while loop to take bites out of the apple until it’s gone. Print out the amount of the apple that’s left in the body of the while loop. Make sure you never bite more of the apple than is left to eat when you bite the apple in the body of the while loop.
+
+* Don’t worry if the initial size of the apple and the bite size you’re using lead to a really small bite before the apple is gone. That’s floating point rounding in action!
+
+```C#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AppleExercise
+{
+    /// <summary>
+    /// Exercise 9, 10, and 11 solution
+    /// </summary>
+    class Program
+    {
+        /// <summary>
+        /// Tests the apple class
+        /// </summary>
+        /// <param name="args">command-line arguments</param>
+        static void Main(string[] args)
+        {
+            // test constructor and properties
+            Apple apple = new Apple(true, 1.5f);
+            Console.WriteLine("Organic? " + apple.Organic);
+            Console.WriteLine("Amount Left: " + apple.AmountLeft);
+
+            // eat the apple
+            const float BiteSize = 0.15f;
+            while (apple.AmountLeft > 0)
+            {
+                apple.TakeBite(BiteSize);
+                Console.WriteLine("Amount Left: " + apple.AmountLeft);
+            }
+
+            Console.WriteLine();
+        }
+    }
+}
+
+```
 
 </details>
