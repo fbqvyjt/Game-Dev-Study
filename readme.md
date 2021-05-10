@@ -135,3 +135,31 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 * [Practice](Course2/ConsoleApp/Exercises/notes.md)
 
 </details>
+
+<details>
+<summary> Chapter X: A Closer Look at Methods </summary>
+
+* [Overview](Course2/CloserLookMethods/index.md)
+* [Method Headers](Course2/CloserLookMethods/MethodHeaders/notes.md)
+* [Parameters & How They Work](Course2/CloserLookMethods/Parameters/notes.md)
+* [Passing Objects as Parameters](Course2/CloserLookMethods/ObjAsParameters/notes.md)
+* [Practice](Course2/CloserLookMethods/Exercises/notes.md)
+
+</details>
+
+
+<details>
+<summary> Chapter XI: Unity Classes </summary>
+
+* [Overview](Course2/UnityClasses/index.md)
+* [Designing the Class](Course2/UnityClasses/DesignTheClass/notes.md)
+* [Fields n' Properties](Course2/UnityClasses/FieldsNProperties/notes.md)
+* [Methods](Course2/UnityClasses/Methods/notes.md)
+* [Using in a Game](Course2/UnityClasses/UsingInAGame/notes.md)
+* [Practice](Course2/UnityClasses/Exercises/notes.md)
+
+</details>
+
+<details>
+<summary> Chapter XII:  </summary>
+</details>
