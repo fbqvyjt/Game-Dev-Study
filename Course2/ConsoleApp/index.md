@@ -1,7 +1,7 @@
 # Console App Classes
 
 1. [Designing the Class](DesigningTheClass/notes.md)
-    - 
+    - Basics on how to design a class in a console application.
 
 2. [Fields and Properties](FieldsNProperties/notes.md)
     - 
