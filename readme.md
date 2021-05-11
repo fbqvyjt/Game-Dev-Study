@@ -161,5 +161,32 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 </details>
 
 <details>
-<summary> Chapter XII:  </summary>
+<summary> Chapter XII: Strings </summary>
+
+* [Overview](Course2/Strings/index.md)
+* [The Char Data Type](Course2/Strings/CharDataType/notes.md)
+* [String Basics](Course2/Strings/StringBasics/notes.md)
+* [String Operations](Course2/Strings/StringOperations/notes.md)
+* [Practice](Course2/Strings/Exercises/notes.md)
+
+</details>
+
+<details>
+<summary> Chapter XIII: Unity Text IO </summary>
+
+* [Overview](Course2/UnityTextIO/index.md)
+* [Text Output](Course2/UnityTextIO/TestOutput/notes.md)
+* [Text Input](Course2/UnityTextIO/TextInput/notes.md)
+* [Practice](Course2/UnityTextIO/Exercises/notes.)
+
+</details>
+
+<details>
+<summary> Chapter XIV: Unity Audio </summary>
+
+* [Overview](Course2/UnityAudio/index.md)
+* [Audio Basics](Course2/UnityAudio/AudioBasics/notes.md)
+* [Adding an Audio Manager](Course2/UnityAudio/AddingAudioManager/notes.md)
+* [Practice](Course2/UnityAudio/Exercises/notes.md)
+
 </details>
