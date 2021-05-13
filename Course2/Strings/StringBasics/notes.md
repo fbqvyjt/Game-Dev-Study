@@ -1,4 +1,5 @@
 # ***String Basics***
+Basics with Strings in C# Programming
 
 ## What is a String? and Some Notes About Them
 - ***String*** → is just a sequence of Unicode characters, chars; and it is a reference type. 
