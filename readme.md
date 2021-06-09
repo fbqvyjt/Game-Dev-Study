@@ -190,3 +190,26 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 * [Practice](Course2/UnityAudio/Exercises/notes.md)
 
 </details>
+
+<details>
+<summary> Chapter XV: Exceptions </summary>
+
+* [Overview](Course3/Exceptions/index.md)
+* [What are Exceptions?](Course3/Exceptions/WhatAreExceptions/notes.md)
+* [Exception Handlers](Course3/Exceptions/ExceptionHandlers/notes.md)
+* [Practice](Course3/Exceptions/Exercises/notes.md)
+
+</details>
+
+<details>
+<summary> Chapter XVI: File IO </summary>
+
+* [Overview](Course3/FileIO/index.md)
+* [Streams](Course3/FileIO/Streams/notes.md)
+* [Text Files](Course3/FileIO/TextFiles/notes.md)
+* [Game Configuration Data Files](Course3/FileIO/GameConfigDataFiles/notes.md)
+* [Using Game Configuration Data](Course3/FileIO/UsingGameConfigData/notes.md)
+* [PlayerPrefs](Course3/FileIO/PlayerPrefs/notes.md)
+* [Practice](Course3/FileIO/Exercises/notes.md)
+
+</details>
