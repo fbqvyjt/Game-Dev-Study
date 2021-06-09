@@ -15,5 +15,5 @@
 5. [PlayerPrefs](PlayerPrefs/notes.md)
     - 
 
-6. [Practice](Exercises/notes.md)
+6. [Practice](Practice/notes.md)
     - 

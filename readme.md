@@ -197,7 +197,7 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 * [Overview](Course3/Exceptions/index.md)
 * [What are Exceptions?](Course3/Exceptions/WhatAreExceptions/notes.md)
 * [Exception Handlers](Course3/Exceptions/ExceptionHandlers/notes.md)
-* [Practice](Course3/Exceptions/Exercises/notes.md)
+* [Practice](Course3/Exceptions/Practice/notes.md)
 
 </details>
 
@@ -210,6 +210,6 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 * [Game Configuration Data Files](Course3/FileIO/GameConfigDataFiles/notes.md)
 * [Using Game Configuration Data](Course3/FileIO/UsingGameConfigData/notes.md)
 * [PlayerPrefs](Course3/FileIO/PlayerPrefs/notes.md)
-* [Practice](Course3/FileIO/Exercises/notes.md)
+* [Practice](Course3/FileIO/Practice/notes.md)
 
 </details>
