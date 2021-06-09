@@ -202,7 +202,7 @@ All information pertaining to the Coursera class on C# and Unity Engine programm
 </details>
 
 <details>
-<summary> Chapter XVI: File IO </summary>
+<summary> Chapter XVI: File Input & Output (IO) </summary>
 
 * [Overview](Course3/FileIO/index.md)
 * [Streams](Course3/FileIO/Streams/notes.md)
